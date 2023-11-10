@@ -1,7 +1,3 @@
-# Flutter Weather App UI with darkmode support
-### Flutter 2.8.0 Null Safety
-Beautiful Weather App UI with support for dark mode. Created by Martin Gogołowicz.
-## Please leave a ⭐ if you like it 💙
 ## How it looks:
 #### Dark mode ⚫ :
 https://user-images.githubusercontent.com/81767518/146080310-d9596661-e0d4-4f92-8827-3ab1aaa850d6.mov
